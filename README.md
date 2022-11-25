@@ -1,2 +1,3 @@
 # WebDevelopment
-Web Application using Node and Express with MySQL for managing Hospital Database
+## Web Application using Node and Express with MySQL for managing Hospital Database
+Contsins multiple modules for utility uses like scheduling appointments with doctors, purchasing medicine, recording patient data etc...
